@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilmar&label=Profile%20views&color=0e75b6&style=flat" alt="adilmar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilmar" alt="adilmar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilmar&theme=gruvbox" alt="adilmar" /></a> </p>
 
 - 🔭 I’m currently working on [Raízen](https://www.raizen.com.br/)
 
