@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilmar&theme=gruvbox" alt="adilmar" /></a> </p>
 
-- 🔭 I’m currently working on [Raízen](https://www.raizen.com.br/)
+- 🔭 I’m currently working on [GFT](https://www.gft.com/)
 
 - 👨‍💻 All of my projects are available at [https://adilmar.com.br](https://adilmar.com.br)
 
